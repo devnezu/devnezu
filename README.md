@@ -1,5 +1,3 @@
-![Profile Picture]([https://media.discordapp.net/attachments/1094793128751407145/1164288184709034085/Perfil.jpg?ex=6542aade&is=653035de&hm=f3ef4b77ce76768b3a1a5746b28c3a3568b41ad7484cc0481c703afe4d9a51ea&=&width=530&height=671])
-
 # Olá! 👋
 ## Gustavo | Fullstack Developer
 
