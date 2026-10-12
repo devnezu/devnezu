@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Gustavo Rodrigues</title>
+  <desc id="description">Desenvolvedor Full Stack. Sistemas, automações e produtos digitais.</desc>
+  <defs>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#bc3e15"/>
+      <stop offset="1" stop-color="#f97636"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="12" fill="url(#orange)"/>
+  <g stroke="#fff6eb" stroke-opacity=".17" fill="none">
+    <rect x="28" y="28" width="1144" height="284"/>
+    <path d="M410 28v284M790 28v284M28 116h1144M28 246h1144"/>
+  </g>
+  <g stroke="#fff6eb" stroke-width="1.2">
+    <path d="M22 28h12M28 22v12M1166 28h12M1172 22v12M22 312h12M28 306v12M1166 312h12M1172 306v12"/>
+  </g>
+  <text x="800" y="270" font-family="Arial, Helvetica, sans-serif" font-size="226" font-weight="700" letter-spacing="-18" fill="#fff6eb" opacity=".12">.DEV</text>
+  <g fill="#fff6eb" font-family="Arial, Helvetica, sans-serif">
+    <text x="65" y="85" font-size="14" letter-spacing="2.6">DESENVOLVEDOR FULL STACK</text>
+    <text x="61" y="166" font-size="62" font-weight="700" letter-spacing="-2.8">Gustavo Rodrigues</text>
+    <text x="65" y="216" font-size="22">Sistemas, automações e produtos digitais.</text>
+    <text x="65" y="281" font-size="15" letter-spacing="1">GUSTAVO7.DEV</text>
+  </g>
+</svg>
