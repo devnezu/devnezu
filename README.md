@@ -24,7 +24,7 @@ Minha fé cristã faz parte de quem sou e orienta a maneira como quero servir à
 | --- | --- | --- |
 | **iSync · 2026** | Ecossistema para igrejas adventistas: cultos, escalas, repertórios, arquivos e apresentações. Web e desktop, com aplicativo Android nativo conectado à mesma API. | [Conheça o iSync](https://iasdsync.com) |
 | **Systemática · 2026** | Calendários avaliativos e fluxos de revisão para a Educação Adventista. Professores preenchem, a coordenação acompanha e as famílias recebem as informações. | [Portal](https://edu.iasdsync.com) |
-| **HortiFruti PDV · 2026** | PDV visual para hortifrutis e sacolões. Busca por foto ou nome, operação offline e integração com os equipamentos do caixa. | [Conheça o PDV](https://usebrotto.com.br) |
+| **Brotto · 2026** | PDV visual que funciona offline na loja, integrado aos equipamentos do caixa. Painel web para acompanhar vendas e a operação à distância, mesmo fora do estabelecimento. | [Conheça o Brotto](https://usebrotto.com.br) |
 | **Carecy · 2025** | Plataforma de acompanhamento médico-paciente, com histórico, formulários e rotinas automáticas de comunicação entre consultas. | [Plataforma](https://institutoparducci.carecy.com.br) |
 
 O **iSync** é o projeto mais especial que desenvolvi até hoje. Nasceu da vontade de modernizar o software usado nas igrejas e apoiar quem serve nelas. Na minha caminhada de fé, acredito que o construí junto com o Espírito Santo.
